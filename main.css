@@ -1,0 +1,28 @@
+#startWithPossession, #startWithoutPossession  {
+  width:100% !important;
+  height:100px !important;
+  font-size:22pt;
+}
+
+#halftime {
+  margin:10px;
+  width:100%;
+  margin:10px auto;
+  display:block;
+  height:50px;
+  font-size:22pt;
+  box-sizing: border-box !important;
+}
+.timelabel {
+  margin:10px;
+  height:50px;
+  font-size:22pt;
+}
+.front {
+  text-align: right;
+}
+#possessionChange {
+  width:100%;
+  height:250px;
+  font-size:22pt;
+}

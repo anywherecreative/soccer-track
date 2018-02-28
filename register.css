@@ -1,0 +1,14 @@
+BODY {
+  /*background:#303030;*/
+}
+.content {
+  background:#f0f0f0;
+}
+
+.required {
+  color:#f00;
+}
+
+HR {
+  border-color:#c0c0c0;
+}
